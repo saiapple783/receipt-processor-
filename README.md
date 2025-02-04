@@ -2,7 +2,7 @@
 
 
 ****Run with Docker**
-**Since the project requirement aplliaction should be must be Dockerized**
+**Since the project requirement is aplliaction must be Dockerized**
 
 # Build Docker image
 docker build -t receipt-processor .
