@@ -1,7 +1,8 @@
 # receipt-processor-
 
 
-Clone the repo
+Clone the repo:
+
 cd receipt-processor-
 cd receipt-processor(The Dockerfile is in this folder)
 ****Run with Docker**
@@ -33,3 +34,5 @@ NOTE:Replace the id with the response from the process receipts endpoint it will
 I am including my test Screenshots
 
 ![id return](https://github.com/user-attachments/assets/b1b02331-a8cd-4caf-833d-caa0aba51bf7)
+
+![points return](https://github.com/user-attachments/assets/8aaa6db3-6656-4fea-941e-fed433e81966)
