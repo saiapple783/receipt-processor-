@@ -37,3 +37,15 @@ I am including my test Screenshots
 ![id return](https://github.com/user-attachments/assets/b1b02331-a8cd-4caf-833d-caa0aba51bf7)
 
 ![points return](https://github.com/user-attachments/assets/8aaa6db3-6656-4fea-941e-fed433e81966)
+
+
+<br />
+
+MY APPROACH:
+
+As there is no database i used in-memory ConcurrentHashMap is used to store receipts.
+A universally unique identifier (UUID) ensures each receipt is assigned a distinct ID.
+Each request is processed independently, and no persistent storage is required, making the service lightweight.
+
+At controller layer I handled API requests and processed the receipts and retrned unique ID for every receipt
+and all the logic of points calculation and mapping receipts and ID are written in Service layer 
