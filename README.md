@@ -5,6 +5,7 @@ Clone the repo: <br />
 
 cd receipt-processor- <br />
 cd receipt-processor(The Dockerfile is in this folder) <br />
+<br />
 ****Run with Docker**
 # Build Docker image
 docker build -t receipt-processor .
