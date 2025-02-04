@@ -9,8 +9,8 @@ cd receipt-processor(The Dockerfile is in this folder) <br />
 # Build Docker image
 docker build -t receipt-processor .
 # Run Docker container
-docker run -p 8080:8080 receipt-processor
-
+docker run -p 8080:8080 receipt-processor <br />  <br />
+<br />
 
 as per the Requirement:
 
