@@ -1,10 +1,10 @@
 # receipt-processor-
 
 
-Clone the repo:
+Clone the repo: <br />
 
-cd receipt-processor-
-cd receipt-processor(The Dockerfile is in this folder)
+cd receipt-processor- <br />
+cd receipt-processor(The Dockerfile is in this folder) <br />
 ****Run with Docker**
 # Build Docker image
 docker build -t receipt-processor .
